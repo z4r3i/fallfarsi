@@ -8,7 +8,7 @@ from PySide6.QtGui import QIcon, QPixmap, QPainter, QColor, QFont
 from PySide6.QtCore import QTimer, Qt
 
 from . import api
-from .settings import settings as S
+from . import settings as S
 from .widget_window import FalWidget
 from .main_window import MainWindow
 

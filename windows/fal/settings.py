@@ -38,3 +38,4 @@ def save(config: dict):
     _ensure_dir()
     with open(CONFIG_FILE, "w") as f:
         json.dump(config, f, indent=2, ensure_ascii=False)
+
