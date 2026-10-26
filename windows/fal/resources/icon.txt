@@ -1,0 +1,2 @@
+# Placeholder for icon
+# In production, replace with actual icon.ico file
